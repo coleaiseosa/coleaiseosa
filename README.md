@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coleaiseosa
-- 👀 I’m interested in everything about web development
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on full stack web development projects
+- 👀 I’m interested in everything about software development (web & Mobile)
+- 🌱 I love learning, and I constantly find ways to improve myself
+- 💞️ I’m looking to collaborate on software development projects
 - 📫 How to reach me coleaiseosa@gmail.com
 
 <!---
